@@ -1,63 +1,19 @@
-# Getting Started with Create React App
+1) Mention the working of Internet Website in Terms of Front-end & Back-end Divisions 
+The front-end refers to the client-side of a website, which is what the users interact with directly. The front-end refers to the client-side of a website, which is what the users interact with directly. It focuses on the presentation and user experience of the website.
+The back-end refers to the server-side of a website, which handles the behind-the-scenes logic, data storage, and processing. It is responsible for managing databases, server configurations, and business logic
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2) What are tags in HTML? Explain the each category of tag with an Example. 
+HTML tags are used to indicate the beginning and end of an HTML element in an HTML document. There are various types of tag like <head> tag, <html> tag, <body> tag , <div> tag, paragraph <p> tag, heading <h> tag etc.
 
-## Available Scripts
+3) Explain the working Procedure of Virtual DOM. 
+DOM-Document Object Model - a language neutral interface
+Virtual DOM helps in minimizing the direct manipulation of the actual browser DOM.It compares two render trees to determine exactly what has changed, only updating what is necessary on the actual DOM
 
-In the project directory, you can run:
+4) Mention some Differences between MySQL and No SQL 
+MySQL (a relational database management system) uses structured query language (SQL) to manage and manipulate data. and NoSQL (a non-relational database management system) do not enforce strict schemas and allow for dynamic and agile data structures.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
+5) Explain any one DBMS Technology in your own words. 
+Database management system is a software which is used to manage the database. For this we use MySQL to manage the database.
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
